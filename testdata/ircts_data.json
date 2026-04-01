@@ -1,0 +1,14 @@
+[
+    {
+        "from": "Bangalore",
+        "to": "Mangalore",
+        "date":"5",
+        "class": "Sleeper (SL)"
+    },
+    {
+        "from": "Delhi",
+        "to": "Mumbai",
+        "date":"3",
+        "class": "AC 3 tier (3A)"
+    }
+]
