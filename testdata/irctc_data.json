@@ -3,12 +3,14 @@
         "from": "Bangalore",
         "to": "Mangalore",
         "date":"5",
-        "class": "Sleeper (SL)"
+        "class": "Sleeper (SL)",
+        "expected_min_trains": 1
     },
     {
         "from": "Delhi",
         "to": "Mumbai",
         "date":"3",
-        "class": "AC 3 tier (3A)"
+        "class": "AC 3 tier (3A)",
+        "expected_min_trains": 1
     }
 ]

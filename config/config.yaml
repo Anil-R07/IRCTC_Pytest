@@ -1,11 +1,11 @@
-env : Dev
+env: dev
 
-Dev:
+dev:
     base_url: "https://www.irctc.co.in/nget/train-search"
     browser: "chromium"
     headless: false
 
-Prod:
+prod:
     base_url: "https://www.irctc.co.in/nget/train-search"
     browser: "chrome"
     headless: false
