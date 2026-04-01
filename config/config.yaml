@@ -1,0 +1,11 @@
+env : Dev
+
+Dev:
+    base_url: "https://www.irctc.co.in/nget/train-search"
+    browser: "chromium"
+    headless: false
+
+Prod:
+    base_url: "https://www.irctc.co.in/nget/train-search"
+    browser: "chrome"
+    headless: false
